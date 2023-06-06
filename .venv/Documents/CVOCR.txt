@@ -1,0 +1,68 @@
+Jorge Loredo Meléndez — wessite)
+
+§& jorgeloremele@gmail.com  , +5218112430087
+
+EDUCATION
+Instituto Tecnoldgico y de Estudios superiores de Monterrey - ITESM Graduation Date: June 2024
+B.S. in Computer Science and Technology Engineering GPA: 96 / 100
+EXPERIENCE
+MedGlobal Group / Software Developer Sept. 2022 - Dec. 2022
+
+e Worked on the company's marketplace and virtual magazine focused on
+medical equipment, products, and services.
+e¢ Used TypeScript, React, CSS, HTML, GraphQL, Apollo, Next.js.
+
+Micronics Mx / Web Developer Apr. 2021 - July 2021
+e Developed in conjunction with the CTO an update of the bus tracking platform,
+route monitoring, travel history, billing, and report creation.
+e Used JavaScript, React, Redux y Sass.
+
+Vitale Biosignals / Front-end Developer Apr. 2021 - June 2021
+e Worked collaboratively to implement a web application that generates
+medical reports based on clinical formats and allows patient registration
+e Used JavaScript, React, Redux and Sass.
+
+MAJOR PROJECTS
+
+STEM Clubs on Campus Nov. 2020 - Dec. 2022
+e Cybersecurity Tec: Cybersecurity Representative Team of ITESM. Collaborator
+in the Educational Area.
+e Roborregos: Robotics Representative Team of ITESM. Participated in projects
+that promote education, technology, and robotics in Mexico
+
+Moonlight NFT Labs / Co-founder Dec. 2021 - Sept. 2022
+e Created a Multichain Launchpad (EVMs, Solana, and Terra) with custom smart
+contracts to mint NFT tokens.
+e Deployed an NFT Sales bot compatible with Twitter and Discord as wellas a
+Verification Bot to power DAOs (Decentralized autonomous organizations).
+e Used React.js, Node.js, Redux, Sass, Solidity, Rust, Moralis, Ether.js.
+
+Ternium: Gas Monitoring System Jan. 2022 - Apr. 2022
+e Developed a web application to monitor gas leaks in a steel factory, including
+an interactive map to analyze gas concentrations over time.
+e Used Node.js, React.js, Unity, and MySQL.
+
+SEMS: Social and Environmental Monitoring System Jan. 2021 - June 2021
+e Developed as a team a web application that generates data on factors that
+impact the health of the student community through a monitoring system for a
+post-pandemic scenario.
+e Created a dashboard to interact with the metrics of the student flow and
+environmental variables in real-time.
+e First place in “Conexién Tec” competition in the category "Software Prototype
+Development."
+e Used React, HTML, Sass, Redux, and Socket.io for the API interactions.
+
+SKILLS
+
+Programming Languages Technologies
+JavaScript 3 years React, Redux, Node.js, Laravel, Sass, HTML, CSS,
+Java, Python, C++ 2 years MySQL, MongoDB, Git, Rust, Solidity, Unity, GraphQL,
+Matlab, PHP 1 year Flask, Swift Next.js, WEB 3.0 tools (Remix, Nodes,
+Swift 6 months APIs, Libraries)
+
+Languages Awards
+Spanish Native e Scholarship for Academic Talent - ITESM
+English B2 Pearson Certificate e 1st Place - Conexién TEC: Software Prototype
+French B1 (/B) Diploma Development
+
+e 1st Place - Hack MTY: Banorte’s Challenge

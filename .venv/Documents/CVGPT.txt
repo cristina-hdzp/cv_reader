@@ -1,0 +1,17 @@
+{
+  "aboutDescription": "I am a computer science and technology engineering student with a 96/100 GPA, experienced in TypeScript, React, CSS, HTML, GraphQL, Apollo, Next.js, JavaScript, Redux, Sass, Solidity, Rust, Moralis, Ether.js, Node.js, Unity, and MySQL. I have worked on various projects including a gas monitoring system, a social and environmental monitoring system, and a multichain launchpad with custom smart contracts.",
+  "fullName": "Jorge Loredo Meléndez",
+  "title": "Software Developer",
+  "country": "",
+  "state": "",
+  "city": "",
+  "phoneNumber": "+5218112430087",
+  "schoolName": "Instituto Tecnoldgico y de Estudios superiores de Monterrey - ITESM",
+  "degree": "B.S. in Computer Science and Technology Engineering",
+  "specialization1": "",
+  "specialization2": "",
+  "pastWTitle": "Software Developer",
+  "pastWStart": "Sept. 2022",
+  "pastWEnd": "Dec. 2022",
+  "pastWDescription": "Worked on the company's marketplace and virtual magazine focused on medical equipment, products, and services. Used TypeScript, React, CSS, HTML, GraphQL, Apollo, Next.js."
+}
