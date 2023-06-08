@@ -7,8 +7,9 @@ import openai
 
 # Library Paths
 # Download pytesseract and poppler
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-path = r'C:\Program Files\poppler-23.05.0\Library\bin'
+pytesseract.pytesseract.tesseract_cmd = '/usr/local/bin/tesseract'
+path = '/usr/local/Cellar/poppler/23.06.0/bin'
+#poppler_path = '/usr/local/bin'
 
 app = Flask(__name__)
 
@@ -23,7 +24,7 @@ def allowed_file(filename):
 
 #   Converts PDF into Image
 def pdf_to_img(filename):
-    images = convert_from_path('Documents/' + filename, poppler_path = path)
+    images = convert_from_path('Documents/' + filename)
     for img in images:
         img.save('Documents/CV_Image.png', 'PNG')
 
@@ -53,7 +54,7 @@ def text_to_file(text):
 def getChatGPTJSON():
     logging.warning("ENTERED FUNCTION!!!!!!!!!!!!!!")
 
-    openai.api_key = "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"
+    openai.api_key = "ponerAPIKEY"
     
     directory = f'Documents/'
     file_path = os.path.join(directory, 'CVOCR.txt')
@@ -110,7 +111,7 @@ def upload_file():
 
             response = getChatGPTJSON()
 
-            return jsonify(response)
+            return response
     return logging.warning('No jala!')
 
 @app.route("/uploaded/<filename>")

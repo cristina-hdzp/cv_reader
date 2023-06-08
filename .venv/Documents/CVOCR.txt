@@ -1,68 +1,64 @@
-Jorge Loredo Mel�ndez � wessite)
+—~duarcdo Jair Hernandez Gomez
 
-�& jorgeloremele@gmail.com  , +5218112430087
+Grad. Jun 2024 | github.com/LaloHGz | Ao1412492@tec.mx
 
-EDUCATION
-Instituto Tecnoldgico y de Estudios superiores de Monterrey - ITESM Graduation Date: June 2024
-B.S. in Computer Science and Technology Engineering GPA: 96 / 100
-EXPERIENCE
-MedGlobal Group / Software Developer Sept. 2022 - Dec. 2022
+DUCATION
 
-e Worked on the company's marketplace and virtual magazine focused on
-medical equipment, products, and services.
-e� Used TypeScript, React, CSS, HTML, GraphQL, Apollo, Next.js.
+INSTITUTO TECNOLOGICO Y DE ESTUDIOS SUPERIORES DE MONTERREY (ITESM)
+BS IN COMPUTER SCIENCE AND TECHNOLOGY ENGINEERING | GRAD. JUN 2024 | CUM. GPA: 97 / 100
 
-Micronics Mx / Web Developer Apr. 2021 - July 2021
-e Developed in conjunction with the CTO an update of the bus tracking platform,
-route monitoring, travel history, billing, and report creation.
-e Used JavaScript, React, Redux y Sass.
+PROFESSIONAL EXPERIENCE
 
-Vitale Biosignals / Front-end Developer Apr. 2021 - June 2021
-e Worked collaboratively to implement a web application that generates
-medical reports based on clinical formats and allows patient registration
-e Used JavaScript, React, Redux and Sass.
+FRONTEND DEVELOPER INTERN AT ITESM
 
-MAJOR PROJECTS
+Feb- Jul 2022 | Monterrey, N.L
 
-STEM Clubs on Campus Nov. 2020 - Dec. 2022
-e Cybersecurity Tec: Cybersecurity Representative Team of ITESM. Collaborator
-in the Educational Area.
-e Roborregos: Robotics Representative Team of ITESM. Participated in projects
-that promote education, technology, and robotics in Mexico
+¢ Creation and administration of 15 code templates into salesforce platform.
 
-Moonlight NFT Labs / Co-founder Dec. 2021 - Sept. 2022
-e Created a Multichain Launchpad (EVMs, Solana, and Terra) with custom smart
-contracts to mint NFT tokens.
-e Deployed an NFT Sales bot compatible with Twitter and Discord as wellas a
-Verification Bot to power DAOs (Decentralized autonomous organizations).
-e Used React.js, Node.js, Redux, Sass, Solidity, Rust, Moralis, Ether.js.
+¢ Optimized and developed the functionality of GoTop Button using HTML, CSS and JQuery.
+¢ Corrected the hamburger menu using HTML, CSS and JQuery.
 
-Ternium: Gas Monitoring System Jan. 2022 - Apr. 2022
-e Developed a web application to monitor gas leaks in a steel factory, including
-an interactive map to analyze gas concentrations over time.
-e Used Node.js, React.js, Unity, and MySQL.
+¢ Developed a resizer iframe using JavaScript.
 
-SEMS: Social and Environmental Monitoring System Jan. 2021 - June 2021
-e Developed as a team a web application that generates data on factors that
-impact the health of the student community through a monitoring system for a
-post-pandemic scenario.
-e Created a dashboard to interact with the metrics of the student flow and
-environmental variables in real-time.
-e First place in �Conexi�n Tec� competition in the category "Software Prototype
-Development."
-e Used React, HTML, Sass, Redux, and Socket.io for the API interactions.
+PROJECTS
+
+CARITAS MTY VOLUNTEER IOS APP | Swirt | PYTHON | FLASK | FIGMA | MYSQL
+Aug - Oct 2022
+IOS mobile application for charity volunteers, in which you can enroll in a project where you want to work, and register your
+volunteer hours, with the purpose that the admin could validate your volunteer hours and follow your progress.
+¢ Collaborated in the development of the API REST using Python with Flask.
+¢ Collaborated in the design using Figma and in the development of the FrontEnd using swift storyboard.
+¢ Collaborated in the design and development of the relational database using MySQL in MySQL Workbench.
+IEPAM COURSES PLATFORM | HTML | CSS-BooTstTRAP | JAVASCRIPT | NoDEJs | EXPRESS | MYSQL
+Feb - May 2022
+Online Courses Website Platform aimed at elderly people where they can learn how to make online courses and upload their own
+content about their previous knowledge.
+¢ Developed the API REST with NodeJs and Express for update, delete, post and get data to the relational database.
+¢ Designed and developed the FrontEnd using HTML, CSS with Bootstrap framework.
+¢ Designed and developed of the relational database using MySQL in MySQL Workbench.
+MAPP | JAVA | FIREBASE | GOOGLE PLAY
+2017 - 2020
+Android Mobile Application aimed at children to learn coding with fantasy story as a guide, challenges and example content which
+explains programming knowledge.
+¢ Developed and design the no-relational database using Firebase Realtime-database.
+¢ Developed the authentication module using Java with Firebase Authentication.
+¢ Developed and designed all the layouts(exercises of the topics, menus, profile fragment, etc) using XML.
+¢ Developed the IA implementation using Dialog Flow API
+
+AWARDS AND LEADERSHIP
+COMPUTER SCIENCE STUDENTS COUNCIL (SAITC) 2022-2023
+President of the Computer Science Students Council (SAITC)
+
+MILSET EXPO SCIENCES INTERNATIONAL 2023 2021
+MAPP prototype qualified for the Milset Expo Sciences International 2023
+
+"LIDERES DEL MANANA’ SCHOLARSHIP 2020
+Recipient of the "Lideres del Mafana’ full ride Scholarship by ITESM for academic merit, personal career, and commitment with
+the community
 
 SKILLS
 
-Programming Languages Technologies
-JavaScript 3 years React, Redux, Node.js, Laravel, Sass, HTML, CSS,
-Java, Python, C++ 2 years MySQL, MongoDB, Git, Rust, Solidity, Unity, GraphQL,
-Matlab, PHP 1 year Flask, Swift Next.js, WEB 3.0 tools (Remix, Nodes,
-Swift 6 months APIs, Libraries)
+LANGUAGES: C++ e HTML eCSS e Javascript ¢ Swifte Kotlin « Java e MYSQL e Python
+TECHNOLOGIES: NodeJs ¢ Express ¢ Bootstrap e JQuery e GitHub e Firebase e Flask e Figma
+SOFT SKILLS: Leadership ¢ Responsible « Creative « Team work e Resilient
 
-Languages Awards
-Spanish Native e Scholarship for Academic Talent - ITESM
-English B2 Pearson Certificate e 1st Place - Conexi�n TEC: Software Prototype
-French B1 (/B) Diploma Development
-
-e 1st Place - Hack MTY: Banorte�s Challenge
